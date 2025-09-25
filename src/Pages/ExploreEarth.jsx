@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Overlay from "../ui/overlay";
+import Overlay from "../ui/Overlay";
 import Sidebar from "../hooks/cargallery/Sidebar";
 import Masonry from "react-masonry-css";
 import Modal from "../ui/Modal";

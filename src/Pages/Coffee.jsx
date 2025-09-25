@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Sidebar from "../hooks/cargallery/Sidebar";
 import Modal from "../ui/Modal";
-import Overlay from "../ui/overlay";
+import Overlay from "../ui/Overlay";
 import SearchBar from "../ui/SearchBar";
 import Slider from "react-slick"; // Carousel
 import "slick-carousel/slick/slick.css";

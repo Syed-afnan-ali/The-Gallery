@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import Sidebar from "../hooks/cargallery/Sidebar";
 import { DiVim } from "react-icons/di";
 import { div } from "framer-motion/client";
-import Overlay from "../ui/overlay";
+import Overlay from "../ui/Overlay";
 
 const VideoGallery = () => {
     const [videos, setVideos] = useState([]);

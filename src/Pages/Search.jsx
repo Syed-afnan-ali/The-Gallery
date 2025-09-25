@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Sidebar from "../hooks/cargallery/Sidebar";
-import Overlay from "../ui/overlay";
+import Overlay from "../ui/Overlay";
 import Modal from "../ui/Modal";
 
 const PIXABAY_KEY = "52317977-b9297d2de2506c0e93c32e187";

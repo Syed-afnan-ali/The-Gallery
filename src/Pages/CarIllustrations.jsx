@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Masonry from "react-masonry-css";
 import Sidebar from "../hooks/cargallery/Sidebar";
-import Overlay from "../ui/overlay";
+import Overlay from "../ui/Overlay";
 import Modal from "../ui/Modal";
 import Filter from "../ui/Filter";
 
