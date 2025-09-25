@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import Sidebar from "../hooks/cargallery/Sidebar";
 import { Heart } from "lucide-react";
 import { useSearchParams } from "react-router-dom";
-import Overlay from "../ui/overlay";
+import Overlay from "../ui/Overlay";
 import Modal from "../ui/Modal";
 import Filter from "../ui/Filter";
 
